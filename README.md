@@ -6,7 +6,7 @@ Create a simple app where a teacher can enter student names as they arrive at cl
 
 
  # My Awesome Project
- Creating the stundent list was a challing experince 
+ Creating the stundent list was a challing experince.  After getting over the obstcale 
 
 
 **Link to project:** http://recruiters-love-seeing-live-demos.com/
